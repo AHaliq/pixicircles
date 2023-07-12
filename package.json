@@ -1,0 +1,27 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-solid": "^0.12.1",
+    "solid-devtools": "^0.27.3",
+    "typescript": "^5.1.6",
+    "vite": "^4.3.9",
+    "vite-plugin-solid": "^2.7.0"
+  },
+  "dependencies": {
+    "pixijs": "^7.1.4",
+    "quick-perlin-noise-js": "^1.0.3",
+    "solid-js": "^1.7.6"
+  }
+}
